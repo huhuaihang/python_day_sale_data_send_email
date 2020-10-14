@@ -1,0 +1,2 @@
+# python_day_sale_data_send_email
+商城日销售数据自动生成excel 发送邮件
